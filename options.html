@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Options</title>
+    <style>
+    html {
+        padding: 10px;
+    }
+
+/*    button{
+        padding: 0px;
+    }*/
+
+    .option {
+        padding-bottom: 10px;
+    }
+
+    .siteInputDiv {
+        padding-bottom: 10px;
+        display: flex;
+        justify-content: stretch; 
+        align-items: center;
+    }
+
+    .siteInput {
+        flex-grow: 1;
+
+    }
+
+    .warning {
+        color: red;
+    }
+
+    .hidden {
+        visibility: hidden;
+    }
+
+    p{
+        padding-bottom: 15px;
+    }
+
+    label {
+        padding-top: 10px;
+    }
+    </style>
+    <script src="getsettings.js"></script>
+</head>
+
+<body>
+    <div class="option">
+        <label>
+            <input type="checkbox" id="pauseStatus"> Pause filter
+        </label>
+    </div>
+    <div class="option">
+        <label>
+            <input type="checkbox" id="alwaysOn"> Apply filter to all websites. For maximum bleakness.
+        </label>
+    </div>
+    <div class="option">
+        <label>
+            <input type="checkbox" id="specificSitesOnly"> Only enable for the following websites:
+        </label>
+    </div>
+    <div id="siteList"></div>
+    <div id="status"></div>
+    <button id="save">Save</button>
+    <script src="options.js"></script>
+</body>
+
+</html>
