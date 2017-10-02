@@ -5,7 +5,7 @@ const dictionary = {
     "of luxury": "of 'luxury'",
     "luxurious": "miserable",
     "a luxury": "an extortionate",
-    "luxury": "somewhat comforable",
+    "luxury": "somewhat comfortable",
     "stunningly": "passably",
     "stunning": "passable",
     "impressive": "underwhelming",
