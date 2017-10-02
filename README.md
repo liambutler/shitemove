@@ -18,7 +18,7 @@ Here are some examples that came up during testing:
 ![An estate agent listing with altered text. It says '1 bedroom flat. Shit one bedroom first floor apartment in shit location'](/examples/example3.jpg?raw=true)
 
 ## Visit the website
-I've put together an explanatory page over at <a href="shitemove.angryflatcap.com">shitemove.angryflatcap.com</a>
+I've put together an explanatory page over at <a href="http://shitemove.angryflatcap.com/">shitemove.angryflatcap.com</a>
 
 ## To do
 
