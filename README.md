@@ -23,9 +23,10 @@ I've put together an explanatory page over at <a href="shitemove.angryflatcap.co
 ## To do
 
 <ul>
-  <li>A Firefox version (if there's enough demand for one)</li>
   <li>Accessibility improvements.</li>
   <li>Performance enhancements. I don't think that I'm using the MutationObserver API to its full potential at the moment.</li>
+  <li><strike>A Firefox version (if there's enough demand for one)</strike></li>
+  <li>Combine this repo with the <a href="https://github.com/liambutler/shitemove-firefox">shitemove for Firefox repo</a>, making use of the WebExtension API</li>	
 </ul>
 
 I haven't been working with HTML and Javascript for that long. If you have any tips on how I can make the interface more accessible or boost the performance, I'd love to hear from you.
