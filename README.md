@@ -1,7 +1,7 @@
 # shitemove
 Replacing estate agent clichés with something a little more truthful.
 
-By Liam Butler (<a href="https://www.twitter.com/AngryFlatCap/">@AngryFlatCap)
+By Liam Butler (<a href="https://www.twitter.com/LiamMakesStuff/">@LiamMakesStuff)
 
 Inspired by <a href="http://downworthy.snipe.net/">Downworthy</a> by <a href="https://twitter.com/snipeyhead">Snipe</a>. <a href="https://www.iconfinder.com/icons/299061/house_icon">Logo</a> by <a href="http://www.paomedia.com">Paomedia</a>, with some modifications. Licensed under Creative Commons 3.0.
 
